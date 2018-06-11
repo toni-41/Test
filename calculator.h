@@ -26,6 +26,10 @@ private:
     //Пути к файлам материалов и плотности
     QString path_Steell = "./Steel.txt";
     QString path_Cuprum = "./Cuprum.txt";
+
+
+private slots:
+
 };
 
 #endif // CALCULATOR_H

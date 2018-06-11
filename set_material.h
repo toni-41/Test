@@ -7,7 +7,7 @@
 #include <QMessageBox>
 
 
-void SetMaterial(QStringList list, QString file_path);
+void SetMaterial(QStringList &list_material, QStringList &list_plotnost, QString file_path);
 
 
 
